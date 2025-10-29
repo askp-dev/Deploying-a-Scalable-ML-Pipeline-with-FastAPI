@@ -79,6 +79,6 @@ This model has not been adjusted for biases or optimized in any form. This class
 
 We recommend training the model on more recent data as well as improving the training-test validation datasets.
 
-> R. Kohavi. "Census Income," UCI Machine Learning Repository, 1996. [Online]. Available: https://doi.org/10.24432/C5GP7S.
-
 <hr/>
+
+> R. Kohavi. "Census Income," UCI Machine Learning Repository, 1996. [Online]. Available: https://doi.org/10.24432/C5GP7S.
